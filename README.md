@@ -23,5 +23,5 @@ Graph-based logistics optimization project analyzing 144K+ trips to improve ETA 
 - notebooks/ → Python analysis
 - images/ → Visualizations
 
-#$ Author 
+## Author 
 - Ishu Verma
